@@ -1,4 +1,4 @@
-# MindFlow
+# ChaNote
 aplikasi jurnaling yang dibuat dengan tujuan untuk menumbuhkan kebiasan menulis jurnal harian, dibuat dengan generative AI
 
 ## Hasil akhir Meta Prompting sebelum generate app
